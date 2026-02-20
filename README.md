@@ -82,4 +82,6 @@ Tactic: Credential Access
 
 📄 Detailed Incident Report
 
-See: Incident Report
+## 📄 Detailed Incident Report
+
+See: [Incident Report](Incident_Report.md)
